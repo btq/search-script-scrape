@@ -1,1 +1,9 @@
-# From 2010 to 2013, the total number of patient deaths listed in the FDA's Adverse Events Reporting System
+'''In the most recent FDA Adverse Events Reports quarterly extract,
+ the number of patient reactions mentioning "Death"
+http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/ucm082193.htm'''
+
+import re
+import requests
+from bs4 import BeautifulSoup
+
+url = 'http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/ucm082193.htm'
