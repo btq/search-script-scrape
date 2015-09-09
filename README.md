@@ -26,7 +26,7 @@ __Note:__ The "__related URL__" links to either the official source of the data,
 
 ## The tasks
 
-The repo currently contains scripts for __100__ of __101__ tasks:
+The repo currently contains scripts for __101__ of __101__ tasks:
 
 |          Title          |  Line count |
 |-------------------------|-------------|
@@ -118,7 +118,7 @@ The repo currently contains scripts for __100__ of __101__ tasks:
 | 86. <i id='task-86'></i>Number of computer vulnerabilities in which IBM was the vendor in the latest Cyber Security Bulletin  <br> <a href='https://www.us-cert.gov/ncas/bulletins'>[related URL]</a>&nbsp;<a href='scripts/86.py'>[script]</a> |  10 lines |
 | 87. <i id='task-87'></i>Number of airports with existing construction related activity <br> <a href='https://nfdc.faa.gov/xwiki/bin/view/NFDC/Construction+Notices'>[related URL]</a>&nbsp;<a href='scripts/87.py'>[script]</a> |  6 lines |
 | 88. <i id='task-88'></i>The number of posts on TSA's Instagram account <br> <a href='https://instagram.com/tsa/'>[related URL]</a>&nbsp;<a href='scripts/88.py'>[script]</a> |  24 lines |
-| 89. <i id='task-89'></i>In fiscal year 2013, the short description of the most frequently cited type of FDA's inspectional observations related to food products. <br> <a href='http://www.fda.gov/ICECI/Inspections/ucm250720.htm'>[related URL]</a> |   |
+| 89. <i id='task-89'></i>In fiscal year 2013, the short description of the most frequently cited type of FDA's inspectional observations related to food products. <br> <a href='http://www.fda.gov/ICECI/Inspections/ucm250720.htm'>[related URL]</a>&nbsp;<a href='scripts/89.py'>[script]</a> |  20 lines |
 | 90. <i id='task-90'></i>The currently serving U.S. congressmember with the most Twitter followers <br> <a href=''>[related URL]</a>&nbsp;<a href='scripts/90.py'>[script]</a> |  76 lines |
 | 91. <i id='task-91'></i>Number of stop-and-frisk reports from the NYPD in 2014 <br> <a href='http://www.nyc.gov/html/nypd/html/analysis_and_planning/stop_question_and_frisk_report.shtml'>[related URL]</a>&nbsp;<a href='scripts/91.py'>[script]</a> |  22 lines |
 | 92. <i id='task-92'></i>In 2012-Q4, the total amount paid by Rep. Aaron Schock to Lobair LLC, according to Congressional spending records, as compiled by the Sunlight Foundation <br> <a href='https://sunlightfoundation.com/tools/expenditures/'>[related URL]</a>&nbsp;<a href='scripts/92.py'>[script]</a> |  14 lines |
