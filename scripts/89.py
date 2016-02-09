@@ -16,5 +16,5 @@ for lnk in linktitles:
   yearlink = lnk.parent.attrs['href'] #take the href attribute of that linktitle's parent (<a>)
   break
 resp2 = requests.get(urlroot+yearlink) #get that page
-df = pd.read_html(urlroot+yearlink,attrs={'summary':"Foods"}) #it only parses the first row correctly, but that's all we need
+df = pd.read_html(urlroot+yearlink,attrs={'summary':"Foods"}) #it only parses the first row correctly due to the Food td spanning all rows
 print(df[0]['Short Description'][0])
